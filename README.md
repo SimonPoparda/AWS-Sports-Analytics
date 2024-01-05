@@ -7,11 +7,8 @@ In this project I'm going to use AWS (Amazon S3, Amazon Athena, Amazon QuickSigh
 Do you have what it takes? It all starts with the data and what you do with it."
 
 ## Objectives
-
-- Query data with Amazon Athena and Trino SQL
+- Query data from Amazon S3 with Amazon Athena and Trino SQL
 - Create Visualizations using QuickSight
-
-
 
 ## Setting up an environment
 Firstly, I opened AWS Console Home and searched for Athena
