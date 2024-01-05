@@ -30,7 +30,7 @@ As well as created an instance
 
 
 
-I find that AWS already provided me with a table
+I found that AWS already provided me with a table
 
 
 
